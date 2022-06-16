@@ -1309,8 +1309,6 @@ hr {
 
     .clients__item {
         width: 100%;
-        padding: 0;
-        text-align: center;
 
     }
 
@@ -1547,7 +1545,7 @@ hr {
         position: static;
     }
 
-    .card__item {
+    .clients__item {
         padding-left: 0;
         text-align: center;
     }
